@@ -1,0 +1,124 @@
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.exe
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.csprojAssemblyReference.cache
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.AssemblyInfoInputs.cache
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.AssemblyInfo.cs
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.RazorTargetAssemblyInfo.cache
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\staticwebassets\AtelierRestApi.StaticWebAssets.Manifest.cache
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\staticwebassets\AtelierRestApi.StaticWebAssets.xml
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.csproj.CopyComplete
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.deps.json
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.runtimeconfig.json
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.runtimeconfig.dev.json
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.pdb
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.csproj.CoreCompileInputs.cache
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.dll
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.pdb
+D:\Aspet.net\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.genruntimeconfig.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.exe
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.csprojAssemblyReference.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.AssemblyInfoInputs.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.AssemblyInfo.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.csproj.CoreCompileInputs.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.RazorTargetAssemblyInfo.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.csproj.CopyComplete
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\staticwebassets\AtelierRestApi.StaticWebAssets.Manifest.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\staticwebassets\AtelierRestApi.StaticWebAssets.xml
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.pdb
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.deps.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.runtimeconfig.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.runtimeconfig.dev.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\AtelierRestApi.pdb
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\AtelierRestApi\AtelierRestApi\obj\Debug\netcoreapp3.1\AtelierRestApi.genruntimeconfig.cache

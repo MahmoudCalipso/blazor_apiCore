@@ -1,0 +1,188 @@
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.exe
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.deps.json
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.Views.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.Views.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorComponent.input.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeList.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.TagHelpers.input.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.TagHelpers.output.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorCoreGenerate.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.Views.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\staticwebassets\ProjetBlazer.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\staticwebassets\ProjetBlazer.StaticWebAssets.xml
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\ProjetBlazer.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeList.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetails.razor.g.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\AtelierRestApi.exe
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\AtelierRestApi.dll
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\AtelierRestApi.pdb
+C:\Users\LENOVO\source\repos\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\AtelierRestApi.exe
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\.filenesting.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.exe
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.deps.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.runtimeconfig.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.runtimeconfig.dev.json
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.pdb
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.Views.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\ProjetBlazer.Views.pdb
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\AtelierRestApi.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.AssemblyInfoInputs.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.AssemblyInfo.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.csproj.CoreCompileInputs.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorComponent.input.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeList.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\RazorDeclaration\ProjetBlazer.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.TagHelpers.input.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.TagHelpers.output.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorCoreGenerate.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetails.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeList.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorAssemblyInfo.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorAssemblyInfo.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorTargetAssemblyInfo.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.RazorTargetAssemblyInfo.cs
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.Views.pdb
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.csproj.CopyComplete
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\staticwebassets\ProjetBlazer.StaticWebAssets.Manifest.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\staticwebassets\ProjetBlazer.StaticWebAssets.xml
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.pdb
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.genruntimeconfig.cache
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\bin\Debug\netcoreapp3.1\AtelierRestApi.pdb
+C:\Users\CALIPSO\Downloads\location voiture\ProjetBlazer\ProjetBlazer\ProjetBlazer\obj\Debug\netcoreapp3.1\ProjetBlazer.csprojAssemblyReference.cache
